@@ -12,3 +12,6 @@
 8. **Explain why the denominator is n-1 rather than n when calculating sample variance.**
 9. **If a data set has a small standard deviation, what does that indicate about the data's distribution around the mean?**
 10. **In a dataset where all the data is in units of meters, what are the units for variance and standard deviation?**
+
+### Answer-Key
+- [Answer Key](answer-key.md)

@@ -19,3 +19,6 @@
 9. A small **standard deviation** indicates that the data points are tightly clustered around the mean, suggesting less variability or spread in the data set.
 
 10. If the data set is in meters, the **variance** would be in square meters (m²), while the **standard deviation** would be in meters (m).
+
+###
+- [Assignment](assignment.md)

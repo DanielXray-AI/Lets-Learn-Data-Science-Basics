@@ -5,3 +5,6 @@
 3. How does using n-1 in sample variance help correct for bias? Explain the concept of bias in this context and how the sample can skew the values.
 4. Provide a detailed explanation of both variance and standard deviation, explaining why they are used in statistics, what the calculations mean, and what they can tell you about your data.
 5. Compare and contrast the calculation of variance for both samples and populations. What does the difference in formula indicate about how we view samples versus populations?
+
+### Glossary 
+- [Glossary](glossary.md)
