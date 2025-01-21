@@ -28,3 +28,5 @@ Unstructured data requires complex analysis methods, such as machine learning mo
 ### Representative Sample
 A sample is representative if it accurately reflects the characteristics of the population, reducing bias.
 
+### Assignments
+- [Assignments](./assignments.md)
