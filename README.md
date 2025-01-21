@@ -17,9 +17,6 @@ The repository is organized into multiple units, each focusing on a specific are
 - **Assignments**: Exercises and questions to practice and apply the concepts.
 - **Glossary**: Definitions of key terms for quick reference.
 
-### Current Units
-- **Unit 1: Core Data Concepts**
-
 ## How to Use
 
 1. Navigate to the folder for the unit you want to explore.
