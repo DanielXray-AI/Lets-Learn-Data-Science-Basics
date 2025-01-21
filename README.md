@@ -32,6 +32,4 @@ The repository is organized into multiple units, each focusing on a specific are
 Feedback and suggestions are welcome! However, this repository is read-only to ensure the integrity of the content. If you have ideas or corrections, you can:
 - Open an issue to share your feedback.
 
-## License
 
-This repository is shared under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You are free to share the content with proper attribution, but modifications and commercial use are not allowed.
